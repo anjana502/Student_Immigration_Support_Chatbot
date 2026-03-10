@@ -1,0 +1,43 @@
+URL: https://issc.asu.edu/f-1j-1-students/employment/h1-b
+
+Cap Gap to H-1B
+On This Page:
+Cap Gap to H-1B
+A Cap-Gap extension is a regulatory provision which extends an eligible F-1 student's status to bridge the gap between the end of their F-1 Post-OPT/STEM OPT work authorization and the start of their cap subject H-1B status, allowing them to remain in the U.S. during the "gap."
+The “cap-gap” period starts when an F-1 student’s status and employment authorization expires and, unless terminated, ends on April 1 of the fiscal year for which the H-1B status is being requested or until the validity start date of the approved petition, whichever is earlier.
+Note:The Cap-Gap is not available for F-1 students whose H-1B application has been filed as Consular Processing or is Cap Exempt.
+Eligibility
+If you meet all of the following eligibility criteria, you may be entitled to an extension of F-1 status to cover the “cap gap” period:
+You have properly maintained F-1 status
+Your employment is subject to the H-1B cap
+Your employer filed an H-1B petition for “Change of Status” (not “Consular Notification”) on or after April 1
+Your F-1 status ends, including your 60-day grace period, between April 1 and the start date of your H-1B
+Note:If your registration is selected in the lottery, this does not mean that you are eligible for the Cap Gap extension. Your sponsor should receive an I-797 notice of your selection, but they still need to file the H-1B petition in a timely manner in order for you to be eligible for the Cap-Gap extension.
+There are two types of cap-gap extensions:
+If the H-1B petition is filed for you during your 60-day grace period, you will receive a cap-gap extension of your F-1 status, but will not be authorized to work. This means you can remain in the U.S. in F-1 status during the cap-gap period but will not be eligible to work until USCIS approves the H-1B petition and your H-1B status begins.
+If the H-1B petition is filed for you while you are on an active period of Post-OPT/STEM OPT, you will receive a cap-gap extension of your F-1 status and OPT authorization. This means you will be eligible to continue working on OPT until USCIS approves the H-1B petition and your H-1B status begins.
+A student who is the beneficiary of areceiptedorapprovedH-1B petition will have their F-1 status automatically extended (if the cap-gap is needed). The cap-gap extension of status will continue until April 1 of the fiscal year for which such H-1B status is being requested or until the validity start date of the approved petition, whichever is earlier.
+You are only eligible to apply for the cap-gap extension, once your H-1B petition is in pending or approved status with USCIS. If your registration is selected in the lottery, you are not eligible to apply for the cap-gap extension, until your H-1B petition has been filed and is pending with USCIS.
+Note:Students who will continue to have valid Post-OPT/STEM OPT until their H-1B start date, do not need to apply for a cap-gap extension I-20 as they are not eligible (since it is not needed) for their situation.
+How to apply
+If you meet the eligibility criteria listed above, the cap-gap extension is automatic. You do not have to apply for a cap-gap extension. USCIS informs SEVIS of the H-1B application and the cap-gap is added to your SEVIS record.
+After you have received the H-1B Receipt Notice or Approval Notice,you may request for a Cap-Gap Extension I-20.
+How to Request a Cap-Gap I-20
+Ensure that you have uploaded a copy of your EAD card through theISSC eForm Portalor link underMy ASUPriority Tasks.
+Report or update your employment (if you have not done so) through theSEVP Portal(Post-OPT) or theISSC eForm Portal(STEM).
+Ensure your current local address is listed in yourMy ASU.
+Complete and submit theReplacement for I-20 eFormthrough theISSC eForm Portal.  Please have one of the following documents ready to upload:Receipt Notice (1-797C)orApproval Notice (I-797A)
+Receipt Notice (1-797C)or
+Approval Notice (I-797A)
+ISSC will e-mail you when your Cap-Gap I-20 is ready. Our general processing time can take up to 7 business days. If you plan to travel during the cap-gap period, please consult with your employer/immigration lawyer as traveling or leaving the US might affect your H-1B application
+Maintaining status
+Maintaining status during Cap Gap extension
+During your Cap Gap period, you are still required to maintain yourPost-OPTorSTEM OPT extensionstatus until your H-1B status begins.
+It's your responsibility to report on time. Although you are set up to receive reminder emails, they may not work as designed. Please make sure you set reminders to report regularly.
+Submitting your H-1B approval notice through theDemographic Update eForm will allowthe ISSC to update your SEVIS record.
+10 days:Remember: Students must report to a DSO any changes in the student’s legal name, address, employer or employment status within 10 days of the change.
+Please see the Optional Practical Training Priority Task link on My ASU to learn how to report these changes.
+It is imperative to keep in touch with your employer's legal team regarding any changes that may affect your H-1B petition or approval.
+If your H-1B petition is rejected, denied, withdrawn, or revoked, your cap-gap extension is immediately terminated. Most likely, you will be entitled to a 60-day grace period from the date of the USCIS notification. However, if the H-1B denial was due to a status violation, there is no grace period.
+In some instances, if your H-1B status is revoked or withdrawn before the H-1B status start date, the ISSC may be able to request SEVP to reactivate your F-1 status. However, if you did not maintain your F-1 status and abide by all reporting requirements and regulations, you will not be eligible to have your F-1 status reactivated.
+F-1/J-1 students
